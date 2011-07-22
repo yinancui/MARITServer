@@ -1,0 +1,5 @@
+MARITServer
+This server runs on Windows XP, receiving data from Vicon
+data station and forwarding it to clients. Since I decided
+to use Realtime SDK on clients to request data directly,
+this program becomes obsolete.
